@@ -16,3 +16,9 @@ _Contiene la calculadora que mostramos el Lunes 1/4/2019_
 _Ejemplo de manipulacion de la camara Lunes 22/4/2019_  
 Para mas info ver la documentacion:
 https://developer.android.com/training/camera/photobasics
+
+
+### ABM-SQLite 💾
+
+_Alta, baja, modificacion con sqlite_
+Tabla: especies; Campos: id(autoincremental), especie(texto), altura(numerico).
